@@ -12,3 +12,4 @@ Note that I do not intend to support any other Forge buffer types.
 #+html: <a href="https://github.com/magit/orgit-forge/actions/workflows/compile.yml"><img alt="Compile" src="https://github.com/magit/orgit-forge/actions/workflows/compile.yml/badge.svg"/></a>
 #+html: <a href="https://snapshots.melpa.org/#/orgit-forge"><img alt="MELPA Snapshots" src="https://snapshots.melpa.org/packages/orgit-forge-badge.svg"/></a>
 #+html: <a href="https://releases.melpa.org/#/orgit-forge"><img alt="MELPA Releases" src="https://releases.melpa.org/packages/orgit-forge-badge.svg"/></a>
+#+html: <a href="https://emacsair.me/human"><img alt="human made" src="https://emacsair.me/assets/badges/human.svg"/></a>
